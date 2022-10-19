@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://usmankhann866.github.io/csb-y348b5/static/css/main.6abdc680.chunk.css",
+    "main.js": "https://usmankhann866.github.io/csb-y348b5/static/js/main.b9cbeb3b.chunk.js",
+    "main.js.map": "https://usmankhann866.github.io/csb-y348b5/static/js/main.b9cbeb3b.chunk.js.map",
+    "runtime-main.js": "https://usmankhann866.github.io/csb-y348b5/static/js/runtime-main.b06e2766.js",
+    "runtime-main.js.map": "https://usmankhann866.github.io/csb-y348b5/static/js/runtime-main.b06e2766.js.map",
+    "static/js/2.2b3875b2.chunk.js": "https://usmankhann866.github.io/csb-y348b5/static/js/2.2b3875b2.chunk.js",
+    "static/js/2.2b3875b2.chunk.js.map": "https://usmankhann866.github.io/csb-y348b5/static/js/2.2b3875b2.chunk.js.map",
+    "index.html": "https://usmankhann866.github.io/csb-y348b5/index.html",
+    "static/css/main.6abdc680.chunk.css.map": "https://usmankhann866.github.io/csb-y348b5/static/css/main.6abdc680.chunk.css.map",
+    "static/js/2.2b3875b2.chunk.js.LICENSE.txt": "https://usmankhann866.github.io/csb-y348b5/static/js/2.2b3875b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b06e2766.js",
+    "static/js/2.2b3875b2.chunk.js",
+    "static/css/main.6abdc680.chunk.css",
+    "static/js/main.b9cbeb3b.chunk.js"
+  ]
+}
